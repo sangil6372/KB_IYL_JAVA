@@ -1,2 +1,4 @@
-package ch07.sec12;public class AnimalExample {
+package ch07.sec12;
+
+public class AnimalExample {
 }

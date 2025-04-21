@@ -1,4 +1,4 @@
-package ch06.sec07.exam03;
+package ch06.basic.sec07.exam03;
 
 
 public class KoreanExample {

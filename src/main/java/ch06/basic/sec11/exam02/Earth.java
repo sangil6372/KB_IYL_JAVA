@@ -1,4 +1,4 @@
-package ch06.sec11.exam02;
+package ch06.basic.sec11.exam02;
 
 public class Earth {
     static final double EARTH_RADIUS = 6400;

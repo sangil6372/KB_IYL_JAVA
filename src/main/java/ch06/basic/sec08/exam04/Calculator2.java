@@ -1,4 +1,4 @@
-package ch06.sec08.exam04;
+package ch06.basic.sec08.exam04;
 
 public class Calculator2 {
     public double areaRectangle(double n){

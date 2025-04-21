@@ -1,4 +1,4 @@
-package ch06.sec07.exam01;
+package ch06.basic.sec07.exam01;
 
 public class Car {
     String company = "현대자동차";

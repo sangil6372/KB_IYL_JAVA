@@ -1,2 +1,13 @@
-package ch06.hard;public class DatabaseExample {
+package ch06.hard;
+
+public class DatabaseExample {
+    public static void main(String[] args) {
+
+        Database database = Database.getInstance();
+
+        database.connect();
+        System.out.println("데이터베이스: " + database.getConnection());
+        database.close();
+
+    }
 }
