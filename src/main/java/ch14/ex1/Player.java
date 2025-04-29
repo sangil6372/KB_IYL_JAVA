@@ -6,7 +6,6 @@ import lombok.Data;
 import java.util.Random;
 
 @Data
-@AllArgsConstructor
 public class Player implements Runnable {
     private String name;
 
