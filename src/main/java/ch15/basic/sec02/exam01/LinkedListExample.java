@@ -1,6 +1,5 @@
-package ch15.sec02.exam01;
+package ch15.basic.sec02.exam01;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
